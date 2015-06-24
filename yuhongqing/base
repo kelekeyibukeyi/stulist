@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>学生信息查询系统</title>
+
+  </head>
+  <body>
+    <center>
+    <table border=1 width=80%>
+      <TABLE BORDER=1 WIDTH=400 HEIGHT=400>
+      <tr style="height=100px;">菜单
+        <td colspan=2></td> </tr>
+      <tr >
+        <td style='width:10em'>
+       
+          <li><a href="main.html">返回主页</a></li>
+
+
+          <span style="font-size:12px;">&nbsp;&nbsp;&nbsp;</span><br> 
+          <span style="font-size:36px;">&nbsp;&nbsp;&nbsp;</span><br> 
+
+          <li><a href="stu_list.html">学生信息</a></li>
+        </ul>
+        </td>
+        <td>
+                                 天津工业大学 TJPU          
+        </td>
+      </tr>
+    </table>
+    </center>
+  </body>
+</html>
